@@ -21,6 +21,6 @@ A collection of Vietnamese dictionaries for Yomitan
 
 ## Other languages
 - [OVDP Chinese - Vietnamese](dictionaries/odvp-zh-vi.zip)
-- [mtBab Vietnamese - Chinese](dictionaries/(mtBab-viet-trung.zip)
+- [mtBab Vietnamese - Chinese](dictionaries/mtBab-viet-trung.zip)
 - [OVDP Vietnamese - Japanese](dictionaries/tu-dien-viet-nhat.zip)
 - **[Bilingual Apple Dictionaries](https://drive.proton.me/urls/XZRWCKDM54#Bnq28tvMixEm)** - Contains Arabic, Dutch, English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Thai and **Vietnamese**.
